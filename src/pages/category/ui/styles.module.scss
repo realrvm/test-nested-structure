@@ -1,0 +1,14 @@
+.category {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+
+  & button {
+    align-self: flex-start;
+    padding: 5px 20px;
+    cursor: pointer;
+    color: #fff;
+    background-color: #639;
+  }
+}

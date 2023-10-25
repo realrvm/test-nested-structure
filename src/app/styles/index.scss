@@ -1,0 +1,18 @@
+@import "./reset";
+@import "./variables/global";
+
+body {
+  margin: 0;
+}
+
+section {
+  padding: 20px;
+}
+
+.btn {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-weight: 600;
+  background-color: transparent;
+}
